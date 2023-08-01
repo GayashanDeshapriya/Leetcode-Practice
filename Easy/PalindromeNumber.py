@@ -4,6 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
+        x=121
         if x<0:
             return False
         rev =0
